@@ -1,9 +1,7 @@
 # Object Oriented Programming using C++ (2nd Edition)
 ### Tasleem Mustafa Complete Book Program's Solutions
 
-- Chapter 01 – Introduction to Programming
-- Chapter 02 – Introduction to C++
-- Chapter 03 – Programming in C++
+- [Chapter 03 – Programming in C++](https://github.com/CS4Usama/OOP-using-Cpp/tree/master/Chapter%20%23%2003){:target="_blank"}
 - Chapter 04 – Input and Output
 - Chapter 05 – Conditional Structures
 - Chapter 06 – Looping Structures
