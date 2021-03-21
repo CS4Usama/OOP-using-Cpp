@@ -1,4 +1,4 @@
-# OOP-using-C
+# OOP-using-Cpp
 Tasleem Mustafa Complete Book Program's Solutions
 
 - Chapter 01 – Introduction to Programming
