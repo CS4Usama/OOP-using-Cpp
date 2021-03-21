@@ -20,5 +20,5 @@
 - Chapter 17 – Template
 - Chapter 18 – File Handling
 - Exception Handling
-- Graphical Programming
 - Extra Programs (Dynamic Memory Allocation, Macro Substitutions, typedef)
+- Graphical Programming
